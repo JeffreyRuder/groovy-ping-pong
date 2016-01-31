@@ -1,26 +1,17 @@
-# Java/Spark/Velocity File Structure Template
+# Groovy PingPong
 
-#### January 14, 2016
+#### January 30, 2016
 
-#### By Midori Bowen and Jeffrey Ruder
+#### By Jeffrey Ruder
 
 ## Description
 
-This is a template file structure for use in Epicodus Java/Spark/Velocity projects.
+This is a simple web app performing the Ping Pong test (aka FizzBuzz test) using a combination of Java and Groovy.
 
 ## How To Use
 
-* Make a directory for your project and initialize a git repository.
-* Pull this file structure template from GitHub: `git pull https://github.com/JeffreyRuder/java-spark-template.git`
-
-OR:
-
-* Fork this repository from GitHub and rename it
-
-## Please Make This Better
-
-Please fork this repository and send a pull request if something in here could be better.
+* Just pull or clone this repository, make sure you have Java and Gradle installed, and `gradle run`
 
 ## Technologies Used
 
-Java, Spark, JUnit, FluentLenium, Velocity, Bootstrap
+Groovy, Java, Spark, JUnit, FluentLenium, Velocity, Bootstrap, Gradle
